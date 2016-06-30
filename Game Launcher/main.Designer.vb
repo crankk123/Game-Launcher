@@ -58,14 +58,14 @@ Partial Class main
         '
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage1)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage2)
+        Me.MetroTabControl1.Controls.Add(Me.MetroTabPage3)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage4)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage5)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage6)
-        Me.MetroTabControl1.Controls.Add(Me.MetroTabPage3)
         Me.MetroTabControl1.Location = New System.Drawing.Point(24, 63)
         Me.MetroTabControl1.Multiline = True
         Me.MetroTabControl1.Name = "MetroTabControl1"
-        Me.MetroTabControl1.SelectedIndex = 5
+        Me.MetroTabControl1.SelectedIndex = 0
         Me.MetroTabControl1.Size = New System.Drawing.Size(485, 240)
         Me.MetroTabControl1.TabIndex = 0
         Me.MetroTabControl1.Theme = MetroFramework.MetroThemeStyle.Dark
