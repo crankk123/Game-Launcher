@@ -26,6 +26,8 @@ Partial Class main
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(main))
         Me.MetroTabControl1 = New MetroFramework.Controls.MetroTabControl()
         Me.MetroTabPage1 = New MetroFramework.Controls.MetroTabPage()
+        Me.h1z1js = New MetroFramework.Controls.MetroButton()
+        Me.payday2 = New MetroFramework.Controls.MetroButton()
         Me.arma3 = New MetroFramework.Controls.MetroButton()
         Me.csgo = New MetroFramework.Controls.MetroButton()
         Me.MetroTabPage2 = New MetroFramework.Controls.MetroTabPage()
@@ -41,6 +43,10 @@ Partial Class main
         Me.LabelProductName = New MetroFramework.Controls.MetroLabel()
         Me.LabelVersion = New MetroFramework.Controls.MetroLabel()
         Me.NotifyIcon1 = New System.Windows.Forms.NotifyIcon(Me.components)
+        Me.thecrew = New MetroFramework.Controls.MetroButton()
+        Me.rainbowsix = New MetroFramework.Controls.MetroButton()
+        Me.insurgency = New MetroFramework.Controls.MetroButton()
+        Me.MetroTabPage6 = New MetroFramework.Controls.MetroTabPage()
         Me.MetroTabControl1.SuspendLayout()
         Me.MetroTabPage1.SuspendLayout()
         Me.MetroTabPage2.SuspendLayout()
@@ -52,13 +58,14 @@ Partial Class main
         '
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage1)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage2)
-        Me.MetroTabControl1.Controls.Add(Me.MetroTabPage3)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage4)
         Me.MetroTabControl1.Controls.Add(Me.MetroTabPage5)
+        Me.MetroTabControl1.Controls.Add(Me.MetroTabPage6)
+        Me.MetroTabControl1.Controls.Add(Me.MetroTabPage3)
         Me.MetroTabControl1.Location = New System.Drawing.Point(24, 63)
         Me.MetroTabControl1.Multiline = True
         Me.MetroTabControl1.Name = "MetroTabControl1"
-        Me.MetroTabControl1.SelectedIndex = 3
+        Me.MetroTabControl1.SelectedIndex = 5
         Me.MetroTabControl1.Size = New System.Drawing.Size(485, 240)
         Me.MetroTabControl1.TabIndex = 0
         Me.MetroTabControl1.Theme = MetroFramework.MetroThemeStyle.Dark
@@ -66,6 +73,9 @@ Partial Class main
         '
         'MetroTabPage1
         '
+        Me.MetroTabPage1.Controls.Add(Me.insurgency)
+        Me.MetroTabPage1.Controls.Add(Me.h1z1js)
+        Me.MetroTabPage1.Controls.Add(Me.payday2)
         Me.MetroTabPage1.Controls.Add(Me.arma3)
         Me.MetroTabPage1.Controls.Add(Me.csgo)
         Me.MetroTabPage1.HorizontalScrollbarBarColor = True
@@ -81,11 +91,31 @@ Partial Class main
         Me.MetroTabPage1.VerticalScrollbarHighlightOnWheel = False
         Me.MetroTabPage1.VerticalScrollbarSize = 10
         '
+        'h1z1js
+        '
+        Me.h1z1js.Location = New System.Drawing.Point(107, 39)
+        Me.h1z1js.Name = "h1z1js"
+        Me.h1z1js.Size = New System.Drawing.Size(101, 30)
+        Me.h1z1js.TabIndex = 5
+        Me.h1z1js.Text = "H1Z1 Just Survice"
+        Me.h1z1js.Theme = MetroFramework.MetroThemeStyle.Dark
+        Me.h1z1js.UseSelectable = True
+        '
+        'payday2
+        '
+        Me.payday2.Location = New System.Drawing.Point(0, 39)
+        Me.payday2.Name = "payday2"
+        Me.payday2.Size = New System.Drawing.Size(101, 30)
+        Me.payday2.TabIndex = 4
+        Me.payday2.Text = "Payday2"
+        Me.payday2.Theme = MetroFramework.MetroThemeStyle.Dark
+        Me.payday2.UseSelectable = True
+        '
         'arma3
         '
-        Me.arma3.Location = New System.Drawing.Point(102, 3)
+        Me.arma3.Location = New System.Drawing.Point(107, 3)
         Me.arma3.Name = "arma3"
-        Me.arma3.Size = New System.Drawing.Size(92, 30)
+        Me.arma3.Size = New System.Drawing.Size(101, 30)
         Me.arma3.TabIndex = 3
         Me.arma3.Text = "Arma3"
         Me.arma3.Theme = MetroFramework.MetroThemeStyle.Dark
@@ -95,7 +125,7 @@ Partial Class main
         '
         Me.csgo.Location = New System.Drawing.Point(0, 3)
         Me.csgo.Name = "csgo"
-        Me.csgo.Size = New System.Drawing.Size(96, 30)
+        Me.csgo.Size = New System.Drawing.Size(101, 30)
         Me.csgo.TabIndex = 2
         Me.csgo.Text = "CSGO"
         Me.csgo.Theme = MetroFramework.MetroThemeStyle.Dark
@@ -103,6 +133,8 @@ Partial Class main
         '
         'MetroTabPage2
         '
+        Me.MetroTabPage2.Controls.Add(Me.rainbowsix)
+        Me.MetroTabPage2.Controls.Add(Me.thecrew)
         Me.MetroTabPage2.Controls.Add(Me.thedivision)
         Me.MetroTabPage2.Controls.Add(Me.farcry3)
         Me.MetroTabPage2.HorizontalScrollbarBarColor = True
@@ -120,9 +152,9 @@ Partial Class main
         '
         'thedivision
         '
-        Me.thedivision.Location = New System.Drawing.Point(94, 3)
+        Me.thedivision.Location = New System.Drawing.Point(103, 3)
         Me.thedivision.Name = "thedivision"
-        Me.thedivision.Size = New System.Drawing.Size(92, 30)
+        Me.thedivision.Size = New System.Drawing.Size(101, 30)
         Me.thedivision.TabIndex = 5
         Me.thedivision.Text = "The Division"
         Me.thedivision.Theme = MetroFramework.MetroThemeStyle.Dark
@@ -132,7 +164,7 @@ Partial Class main
         '
         Me.farcry3.Location = New System.Drawing.Point(-4, 3)
         Me.farcry3.Name = "farcry3"
-        Me.farcry3.Size = New System.Drawing.Size(92, 30)
+        Me.farcry3.Size = New System.Drawing.Size(101, 30)
         Me.farcry3.TabIndex = 4
         Me.farcry3.Text = "FarCry3"
         Me.farcry3.Theme = MetroFramework.MetroThemeStyle.Dark
@@ -180,6 +212,7 @@ Partial Class main
         Me.beta.TabIndex = 5
         Me.beta.Text = "Beta"
         Me.beta.UseSelectable = True
+        Me.beta.Visible = False
         '
         'update_button
         '
@@ -256,6 +289,51 @@ Partial Class main
         Me.NotifyIcon1.Text = "NotifyIcon1"
         Me.NotifyIcon1.Visible = True
         '
+        'thecrew
+        '
+        Me.thecrew.Location = New System.Drawing.Point(-4, 39)
+        Me.thecrew.Name = "thecrew"
+        Me.thecrew.Size = New System.Drawing.Size(101, 30)
+        Me.thecrew.TabIndex = 6
+        Me.thecrew.Text = "The Crew"
+        Me.thecrew.Theme = MetroFramework.MetroThemeStyle.Dark
+        Me.thecrew.UseSelectable = True
+        '
+        'rainbowsix
+        '
+        Me.rainbowsix.Location = New System.Drawing.Point(103, 39)
+        Me.rainbowsix.Name = "rainbowsix"
+        Me.rainbowsix.Size = New System.Drawing.Size(101, 30)
+        Me.rainbowsix.TabIndex = 7
+        Me.rainbowsix.Text = "Rainbow Six"
+        Me.rainbowsix.Theme = MetroFramework.MetroThemeStyle.Dark
+        Me.rainbowsix.UseSelectable = True
+        '
+        'insurgency
+        '
+        Me.insurgency.Location = New System.Drawing.Point(0, 75)
+        Me.insurgency.Name = "insurgency"
+        Me.insurgency.Size = New System.Drawing.Size(101, 30)
+        Me.insurgency.TabIndex = 6
+        Me.insurgency.Text = "Insurgency"
+        Me.insurgency.Theme = MetroFramework.MetroThemeStyle.Dark
+        Me.insurgency.UseSelectable = True
+        '
+        'MetroTabPage6
+        '
+        Me.MetroTabPage6.HorizontalScrollbarBarColor = True
+        Me.MetroTabPage6.HorizontalScrollbarHighlightOnWheel = False
+        Me.MetroTabPage6.HorizontalScrollbarSize = 10
+        Me.MetroTabPage6.Location = New System.Drawing.Point(4, 38)
+        Me.MetroTabPage6.Name = "MetroTabPage6"
+        Me.MetroTabPage6.Size = New System.Drawing.Size(477, 198)
+        Me.MetroTabPage6.TabIndex = 5
+        Me.MetroTabPage6.Text = "Changelog"
+        Me.MetroTabPage6.Theme = MetroFramework.MetroThemeStyle.Dark
+        Me.MetroTabPage6.VerticalScrollbarBarColor = True
+        Me.MetroTabPage6.VerticalScrollbarHighlightOnWheel = False
+        Me.MetroTabPage6.VerticalScrollbarSize = 10
+        '
         'main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -295,4 +373,10 @@ Partial Class main
     Friend WithEvents farcry3 As MetroFramework.Controls.MetroButton
     Friend WithEvents thedivision As MetroFramework.Controls.MetroButton
     Friend WithEvents beta As MetroFramework.Controls.MetroButton
+    Friend WithEvents payday2 As MetroFramework.Controls.MetroButton
+    Friend WithEvents h1z1js As MetroFramework.Controls.MetroButton
+    Friend WithEvents thecrew As MetroFramework.Controls.MetroButton
+    Friend WithEvents rainbowsix As MetroFramework.Controls.MetroButton
+    Friend WithEvents insurgency As MetroFramework.Controls.MetroButton
+    Friend WithEvents MetroTabPage6 As MetroFramework.Controls.MetroTabPage
 End Class

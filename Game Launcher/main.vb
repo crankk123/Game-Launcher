@@ -47,4 +47,24 @@ Public Class main
     Private Sub beta_Click(sender As Object, e As EventArgs) Handles beta.Click
         Process.Start("updater.exe", "/justcheck -critical ")
     End Sub
+
+    Private Sub payday2_Click(sender As Object, e As EventArgs) Handles payday2.Click
+        Process.Start("steam://rungameid/218620")
+    End Sub
+
+    Private Sub h1z1js_Click(sender As Object, e As EventArgs) Handles h1z1js.Click
+        Process.Start("steam://rungameid/295110")
+    End Sub
+
+    Private Sub thecrew_Click(sender As Object, e As EventArgs) Handles thecrew.Click
+        Process.Start("uplay://launch/413/0")
+    End Sub
+
+    Private Sub rainbowsix_Click(sender As Object, e As EventArgs) Handles rainbowsix.Click
+        Process.Start("uplay://launch/635/0")
+    End Sub
+
+    Private Sub insurgency_Click(sender As Object, e As EventArgs) Handles insurgency.Click
+        Process.Start("steam://rungameid/222880")
+    End Sub
 End Class
