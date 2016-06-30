@@ -21,12 +21,18 @@ $RECYCLE.BIN/
 *.vs
 # Build results
 
-[Dd]ebug/
-[Rr]elease/
-x64/
-build/
-[Bb]in/
-[Oo]bj/
+# Build results 
+[Dd]ebug/ 
+[Dd]ebugPublic/ 
+ [Rr]elease/ 
+ [Rr]eleases/ 
+ x64/ 
+ x86/ 
+ bld/ 
+ [Bb]in/ 
+ [Oo]bj/ 
+ [Ll]og/ 
+
 # Windows Installer files
 *.cab
 *.msi
