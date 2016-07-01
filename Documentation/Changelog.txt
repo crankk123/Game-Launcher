@@ -1,6 +1,5 @@
 	Version 1.2
 		• Added Metro Design
-		• Autosave SteamCMD path
 		• Added more Games
 			-CSGO
 			-Arma3
@@ -10,6 +9,5 @@
 	Version 1.1
 		•	Added an Installer
 		•	Added an Updater
-
 	Version 1
 		• Release
