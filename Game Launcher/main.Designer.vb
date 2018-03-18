@@ -73,7 +73,7 @@ Partial Class main
         Me.MetroTabControl1.Location = New System.Drawing.Point(24, 63)
         Me.MetroTabControl1.Multiline = True
         Me.MetroTabControl1.Name = "MetroTabControl1"
-        Me.MetroTabControl1.SelectedIndex = 4
+        Me.MetroTabControl1.SelectedIndex = 5
         Me.MetroTabControl1.Size = New System.Drawing.Size(516, 240)
         Me.MetroTabControl1.TabIndex = 0
         Me.MetroTabControl1.Theme = MetroFramework.MetroThemeStyle.Dark
@@ -381,8 +381,7 @@ Partial Class main
         Me.WebBrowser1.Name = "WebBrowser1"
         Me.WebBrowser1.Size = New System.Drawing.Size(477, 186)
         Me.WebBrowser1.TabIndex = 2
-        Me.WebBrowser1.Url = New System.Uri("https://raw.githubusercontent.com/crankk123/Game-Launcher/master/Documentation/Ch" &
-        "angelog.txt", System.UriKind.Absolute)
+        Me.WebBrowser1.Url = New System.Uri("https://cologne-dev.eu/update/CHANGELOG.md", System.UriKind.Absolute)
         '
         'NotifyIcon1
         '
