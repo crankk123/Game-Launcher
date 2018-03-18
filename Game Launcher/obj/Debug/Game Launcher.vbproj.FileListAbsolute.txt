@@ -13,3 +13,19 @@ c:\users\niclas\documents\visual studio 2015\Projects\Game Launcher\Game Launche
 c:\users\niclas\documents\visual studio 2015\Projects\Game Launcher\Game Launcher\obj\Debug\Game Launcher.pdb
 c:\users\niclas\documents\visual studio 2015\Projects\Game Launcher\Game Launcher\obj\Debug\Game_Launcher.main.resources
 c:\users\niclas\documents\visual studio 2015\Projects\Game Launcher\Game Launcher\obj\Debug\Game_Launcher.login.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\Game Launcher.exe.config
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\Game Launcher.exe
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\Game Launcher.pdb
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\Game Launcher.xml
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\MetroFramework.Design.dll
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\MetroFramework.dll
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game Launcher.vbprojResolveAssemblyReference.cache
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game_Launcher.login.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game_Launcher.main.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game_Launcher.Resources.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game Launcher.vbproj.GenerateResource.Cache
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game Launcher.exe
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game Launcher.xml
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Debug\Game Launcher.pdb

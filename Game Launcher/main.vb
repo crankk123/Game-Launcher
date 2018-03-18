@@ -45,7 +45,7 @@ Public Class main
     End Sub
 
     Private Sub beta_Click(sender As Object, e As EventArgs) Handles beta.Click
-        Process.Start("updater.exe", "/justcheck -critical ")
+        MsgBox("TODO: funktion..")
     End Sub
 
     Private Sub payday2_Click(sender As Object, e As EventArgs) Handles payday2.Click
@@ -66,5 +66,13 @@ Public Class main
 
     Private Sub insurgency_Click(sender As Object, e As EventArgs) Handles insurgency.Click
         Process.Start("steam://rungameid/222880")
+    End Sub
+
+    Private Sub bfh_Click(sender As Object, e As EventArgs) Handles bfh.Click
+        Process.Start("C:\Program Files (x86)\Origin Games\BFH\BFHWebHelper.exe")
+    End Sub
+
+    Private Sub MetroTabPage1_Click(sender As Object, e As EventArgs) Handles MetroTabPage1.Click
+
     End Sub
 End Class

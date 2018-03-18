@@ -13,3 +13,41 @@ C:\Users\Niclas\Documents\Visual Studio 2015\Projects\Game Launcher\Game Launche
 C:\Users\Niclas\Documents\Visual Studio 2015\Projects\Game Launcher\Game Launcher\obj\Release\Game Launcher.exe
 C:\Users\Niclas\Documents\Visual Studio 2015\Projects\Game Launcher\Game Launcher\obj\Release\Game Launcher.xml
 C:\Users\Niclas\Documents\Visual Studio 2015\Projects\Game Launcher\Game Launcher\obj\Release\Game Launcher.pdb
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\Game Launcher.exe.config
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\Game Launcher.exe
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\Game Launcher.pdb
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\Game Launcher.xml
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\MetroFramework.Design.dll
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\MetroFramework.dll
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.vbprojResolveAssemblyReference.cache
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game_Launcher.login.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game_Launcher.main.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game_Launcher.Resources.resources
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.vbproj.GenerateResource.cache
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.vbproj.CopyComplete
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.exe
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.xml
+C:\Users\Niclas\Desktop\Game Launcher\Game Launcher\obj\Release\Game Launcher.pdb
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\Game Launcher.exe.config
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\Game Launcher.exe
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\Game Launcher.pdb
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\Game Launcher.xml
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\MetroFramework.Design.dll
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\MetroFramework.dll
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.vbprojResolveAssemblyReference.cache
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.frmEditProfile.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.frmlogin.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.login.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.main.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.frmchat.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.frmProfilePicture.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game_Launcher.Resources.resources
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.vbproj.GenerateResource.cache
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.vbproj.CopyComplete
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.exe
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.xml
+C:\Users\Niclas\Documents\GitHub\Game-Launcher\Game Launcher\obj\Release\Game Launcher.pdb

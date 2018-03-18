@@ -22,9 +22,79 @@ Game Launcher
   Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
 </summary>
 </member>
+<member name="P:Game_Launcher.My.Resources.Resources.Chat_Logo">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Erase_23">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Fill_Color_19">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Fonticons_23">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Generic_Text_19">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Key_15">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Microsoft_Access_19">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_New_Message_15">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Plus_15">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Send_Message_40">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Settings_19">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.icons8_Shutdown_19">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.settings">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die  ähnelt.
+</summary>
+</member>
 <member name="P:Game_Launcher.My.Resources.Resources.st">
 <summary>
   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Icon ähnlich wie (Symbol).
+</summary>
+</member>
+<member name="P:Game_Launcher.My.Resources.Resources.Users">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
 </summary>
 </member>
 </members>
